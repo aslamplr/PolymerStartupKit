@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "PolymerStartupKit"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-WebApplication1-3709d81f-20fb-4f25-9c2d-8ad23d8f2aca;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
